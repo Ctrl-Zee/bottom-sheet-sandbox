@@ -1,6 +1,6 @@
-import { View, StyleSheet, Text } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 
-export default function HomeScreen() {
+export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
       <Text>Index</Text>
